@@ -1,0 +1,21 @@
+{
+  "name": "jest-test-automation",
+  "version": "1.0.0",
+  "description": "this package including jest",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "example",
+    "package.json",
+    "npm",
+    "init"
+  ],
+  "author": "Mohammad Reza",
+  "license": "UNLICENSED"
+}
